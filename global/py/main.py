@@ -61,4 +61,4 @@ def addCurrencies():
 
 while True:
     addCurrencies()
-    time.sleep(86400)
+    time.sleep(1)
